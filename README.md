@@ -1,5 +1,7 @@
 # Financial News Sentiment Analyser
 
+> **Note:** This project was built as a preparation exercise for a coding assessment at [Deriv](https://deriv.com). The entire codebase was developed by AI using [opencode](https://opencode.ai) with self-implemented subagents for faster and more accurate development — all completed within one hour to reflect the actual assessment time constraints.
+
 Fetches live financial news headlines and analyses their sentiment using Google's Gemini AI — returning structured JSON with sentiment classification, confidence scores, and reasoning for each headline.
 
 ## What It Does
