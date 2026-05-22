@@ -224,7 +224,3 @@ Key design decisions:
 - **Low temperature** (0.1) for consistent, deterministic sentiment classification
 - **Retry with backoff** for Gemini rate limits
 - **Defensive parsing** — validates response structure before use
-
-## License
-
-MIT
